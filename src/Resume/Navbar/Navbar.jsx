@@ -9,7 +9,7 @@ const Navbar = () => {
         <TypeAnimation
             splitter={(str) => splitter.splitGraphemes(str)}
             sequence={[
-            'Hello 🇪n',
+            'Hello 🇬🇧',
             2000,
             'Ciao 🇮🇹',
             2000,
