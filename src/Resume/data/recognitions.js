@@ -8,8 +8,8 @@ export const recognitions = [
         description: "OAUTH 2.0 is a modern and secure authentication method that replaces the outdated Basic Authentication technique, which got deprecated on December 2022 for Exchange Online. If you are a developer who needs to upgrade your mailbox access implementation from Basic Authentication to OAUTH 2.0, you might encounter the common problem of AuthenticationFailure. This article will guide you through the steps to implement OAUTH 2.0 correctly and avoid this problem, ensuring a smooth and successful transition from Basic Authentication to OAUTH 2.0 ",
     },
     {
-        topic: "Certifications",
-        title: "CERTIFICATE - Prompt Design in Vertex AI Skill Badge, Machine Learning & AI",
+        topic: "Certification",
+        title: "Prompt Design in Vertex AI Skill Badge, Machine Learning & AI",
         company: "Google",
         time: "Apr 2024",
         url: "https://www.credly.com/badges/f7438f8a-777a-410b-995d-f2bad10b2f4c/public_url",

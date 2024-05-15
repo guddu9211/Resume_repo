@@ -11,8 +11,8 @@ const Recognitions = () => {
                 recognitions.map((recognition, index) => (
                     <div key={index}
                         className='p-4'>
-                        <h1 className='text-xl font-bold'>{recognition.topic}</h1>
-                        <h2 className='text-lg font-semibold'>{recognition.title}</h2>
+                        <h1 className='text-xl font-bold underline'>{recognition.topic}</h1>
+                        <h2 className='text-lg font-semibold italic'>⦿ {recognition.title}</h2>
                         <h3 className='text-lg text-richblack-100 font-medium'>{recognition.company}</h3>
                         <h3 className='text-lg text-richblack-100 font-medium'>{recognition.time}</h3>
                         <RenderLink text={'goto url'} url={recognition.url} iconName={'AiOutlineLink'}/>
