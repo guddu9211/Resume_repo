@@ -1,0 +1,2 @@
+export const skills = ["Java","SQL","GitHub","Shell Scripting","Perforce","Jenkins","Eclipse-IDE","Skype","REST APIs","Agile Methodologies","JavaScript","HTML","CSS","Tailwind","JSON","C++","Data Structures","Algorithms","AI","C","Data Models","CRM","React","Linux","Express","Node.js","IMAP","Maven","Unix","Public Speaking","Leadership","Touch Typing","Version Control","Weblogic","Redux","Nodejs","CICD"];
+
