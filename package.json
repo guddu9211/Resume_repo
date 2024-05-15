@@ -1,6 +1,6 @@
 {
   "homepage": "https://guddu9211.github.io/Resume_repo",
-  "name": "react-tailwind-css-starter-pack",
+  "name": "manish-prajapati-resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,14 +22,7 @@
     "react-type-animation": "^3.2.0",
     "web-vitals": "^2.1.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
-  },
   "author": "Manish Prajapati",
-  "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
-  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
