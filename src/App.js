@@ -4,9 +4,9 @@ import Navbar from "./Resume/Navbar/Navbar";
 
 function App() {
   return (
-    <div>
+    <div className="w-full h-full bg-richblack-900 text-richblack-5">
       <Navbar/>
-      <div>
+      <div className="py-4">
         <HeroSection/>
       </div>
     </div>  

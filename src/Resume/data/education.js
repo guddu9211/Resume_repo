@@ -3,7 +3,7 @@ export const educations = [
         name: "Birla Institute of Technology, Mesra",
         course: "Masters, Computer Science",
         duration: "Jan 2014 - Jan 2017",
-        score: "80.2 SGPA",
+        score: "8.2/10 CGPA",
         work: [
             "Completed MCA degree and gained experience in diverse and stimulating settings",
             "Founded Cyber Student Association (a platform for students to exchange tech insights)",
@@ -14,7 +14,7 @@ export const educations = [
         name: "Gulbarga University",
         course: "Bachelor of Computer Application",
         duration: "Jan 2011 - Jan 2014",
-        score: "77.4 SGPA",
+        score: "77.4%",
         work: [
             "Completed BCA degree and gained experience in diverse and stimulating settings",
             "Volunteered for various Hackathons on premise both online and offline",
