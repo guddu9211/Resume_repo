@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Resume_repo/static/css/main.b6ddc3b0.css",
+    "main.js": "/Resume_repo/static/js/main.d9785e7b.js",
+    "index.html": "/Resume_repo/index.html",
+    "main.b6ddc3b0.css.map": "/Resume_repo/static/css/main.b6ddc3b0.css.map",
+    "main.d9785e7b.js.map": "/Resume_repo/static/js/main.d9785e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6ddc3b0.css",
+    "static/js/main.d9785e7b.js"
+  ]
+}
