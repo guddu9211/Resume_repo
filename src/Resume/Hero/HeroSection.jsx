@@ -6,6 +6,7 @@ import Skills from '../Components/Skills'
 import DisplayName from '../Components/DisplayName'
 import Contacts from '../Components/Contacts'
 import Recognitions from '../Components/Recognitions'
+// import Extras from '../Components/Extras'
 
 const HeroSection = () => {
 
@@ -28,6 +29,12 @@ const HeroSection = () => {
 
                 {/* my skills  */}
                 <Skills/>
+
+                {/* this is only a horizontal line  */}
+                <div className='w-[90%] h-[1px] mx-auto bg-richblack-200'></div>
+
+                {/* my extra information  */}
+                {/* <Extras/> */}
                 
             </div>
 

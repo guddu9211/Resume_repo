@@ -1,4 +1,5 @@
 import React from 'react'
+import './DisplayName.css'
 
 const DisplayName = () => {
   return (
@@ -6,7 +7,7 @@ const DisplayName = () => {
         <div className='w-[60%] rounded-4xl py-1'>
             <img src='https://res.cloudinary.com/dyfthf6kw/image/upload/v1715701264/codehelpDir/msns4zc7rlrcgwrlsggu.png' 
                 alt='display profile'
-                className='rounded-full' />
+                className='wobble rounded-full' />
         </div>
 
         <div className="w-full my-2 flex gap-1 flex-col items-center justify-center flex-wrap">
