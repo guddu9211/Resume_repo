@@ -1,6 +1,6 @@
 export const links = [
     {
-        text: "Call",
+        text: "Call 8210134128",
         url: "tel:8210134128",
         iconName: "AiOutlinePhone"
     },
@@ -15,12 +15,12 @@ export const links = [
         iconName: "AiOutlineLinkedin"
     },
     {
-        text: "leetcode.com/mkprajapati1614",
+        text: "leetcode profile",
         url: "http://leetcode.com/mkprajapati1614",
         iconName: "AiOutlineCode"
     },
     {
-        text: "github.com/guddu9211",
+        text: "github Repo",
         url: "https://github.com/guddu9211",
         iconName: "AiOutlineGithub"
     },
