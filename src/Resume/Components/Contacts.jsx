@@ -6,7 +6,7 @@ const Contacts = () => {
   return (
     <div className='p-4'>
         <p className='text-2xl font-semibold pb-2 text-center'>Contact</p>
-        <div className='flex flex-col text-lg'>
+        <div className='flex flex-col text-lg gap-2'>
         {
             links.map((link, index) => (
                 <div key={index}>

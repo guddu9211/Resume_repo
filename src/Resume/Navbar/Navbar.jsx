@@ -5,7 +5,7 @@ import GraphemeSplitter from 'grapheme-splitter';
 const Navbar = () => {
     const splitter = new GraphemeSplitter();
   return (
-    <div className='w-[100vw] h-[2rem] bg-richblack-800 border-[1px] border-b-richblack-600 text-center'>
+    <div className='w-full h-[2rem] bg-richblack-800 text-center'>
         <TypeAnimation
             splitter={(str) => splitter.splitGraphemes(str)}
             sequence={[
@@ -13,11 +13,13 @@ const Navbar = () => {
                 2000,
                 'नमस्ते 🇮🇳',
                 2000,
+                'こんにちは 🇯🇵',
+                2000,
                 'Ciao 🇮🇹',
                 2000,
                 '你好 🇨🇳',
                 2000,
-                'Здравейте 🇧🇬 ',
+                'Здравейте 🇧🇬 ',  
                 2000,
                 'Hola 🇪🇸',
                 2000,
