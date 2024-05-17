@@ -1,16 +1,15 @@
-import { Route, Routes } from "react-router-dom";
 import "./App.css";
+import HeroSection from "./Resume/Hero/HeroSection";
 import Navbar from "./Resume/Navbar/Navbar";
-import MainPage from "./Resume/Hero/MainPage";
 
 function App() {
   return (
-    <div className="w-screen min-h-screen bg-richblack-900 flex flex-col font-inter">
-        <Navbar/>
-        <Routes>
-            <Route path="/" element={<MainPage/>} /> 
-        </Routes>
-    </div> 
+    <div className="w-full h-full bg-richblack-900 text-richblack-5">
+      <Navbar/>
+      <div className="py-4">
+        <HeroSection/>
+      </div>
+    </div>  
   );
 }
 
