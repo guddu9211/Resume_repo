@@ -11,7 +11,7 @@ import Recognitions from '../Components/Recognitions'
 const HeroSection = () => {
 
   return (
-    <div className='lg:w-3/4 w-11/12 h-full lg:my-[1rem] my-[0.5rem] border-[1px] border-richblack-600 mx-auto rounded-2xl bg-richblack-700'>
+    <div className='lg:w-3/4 w-11/12 h-full lg:my-[1rem] my-[0.5rem] border-[1px] border-richblack-600 mx-auto rounded-xl bg-richblack-700'>
         
         <div className='flex lg:flex-row flex-col gap-4'>
             {/* left side for personal information and links  */}
